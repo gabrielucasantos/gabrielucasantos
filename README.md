@@ -45,14 +45,6 @@
 
 ---
 
-<!-- Banner / Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielucasantos&show_icons=true&title_color=D2B48C&text_color=D2B48C&icon_color=D2B48C&bg_color=0d1117&cache_seconds=2300" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielucasantos&theme=dark&hide_border=true&background=0d1117&stroke=D2B48C&ring=D2B48C&fire=D2B48C&currStreakLabel=D2B48C&sideNums=D2B48C&sideLabels=D2B48C&dates=D2B48C" height="165" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🚀 Sobre Mim
 Sou Analista de Testes de Software com forte foco em **qualidade, automação e metodologias ágeis**.
 
@@ -63,15 +55,3 @@ Trabalho em estreita colaboração com times de desenvolvimento para detectar pr
 Perfil **analítico e colaborativo**, com atenção aos detalhes e interesse constante em aprender novas tecnologias. 
 
 Meu objetivo é continuar evoluindo em automação, contribuir em projetos open source e, no futuro, atuar em posições de **liderança em QA**, orientando outros profissionais e influenciando diretamente a estratégia de qualidade.
-
----
-
-## 🌐 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielucasantos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gabriel.seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-</p>
