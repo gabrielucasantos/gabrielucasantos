@@ -1,43 +1,77 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabrielucasantos&show_icons=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&cache_seconds=2300" alt="ilustração do status do github">
+<h1 align="center" style="color:#D2B48C">👋 Olá, eu sou o Gabriel!</h1>
 
-### Olá, meu nome é Gabriel!
+<p align="center">
+  <a href="https://github.com/gabrielucasantos">
+    <img src="https://img.shields.io/badge/Software%20Tester%20Analyst-0d1117?style=for-the-badge&logo=github&logoColor=D2B48C" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=GABRIEL&color=0d1117&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando na <strong>Ionic Health</strong><br/> Eu sou <strong>Software Tester Analyst</strong></p>
+<p align="center" style="color:#D2B48C">
+  💼 Atualmente trabalhando na <strong>Ionic Health</strong><br/>
+  🔍 Focado em <strong>Testes de Software</strong>, Automação e Qualidade.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-
 ### 🎯 Automação de Testes
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Capybara-4A4A4A?style=for-the-badge&logo=capybara&logoColor=white" alt="Capybara" />
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Capybara](https://img.shields.io/badge/Capybara-E9573F?style=for-the-badge&logo&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ### 🔧 Testes de API
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Bruno-FFA500?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno" />
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-8A2BE2?style=for-the-badge&logo=bruno&logoColor=white)
 
-### 💻 Linguagens de Programação
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### 🎨 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 CI/CD & DevOps
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
-### 📚 Controle de Versão
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### 📚 Versionamento
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+<!-- Banner / Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielucasantos&show_icons=true&title_color=D2B48C&text_color=D2B48C&icon_color=D2B48C&bg_color=0d1117&cache_seconds=2300" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielucasantos&theme=dark&hide_border=true&background=0d1117&stroke=D2B48C&ring=D2B48C&fire=D2B48C&currStreakLabel=D2B48C&sideNums=D2B48C&sideLabels=D2B48C&dates=D2B48C" height="165" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🚀 Sobre Mim
+Sou Analista de Testes de Software com forte foco em **qualidade, automação e metodologias ágeis**.
+
+Tenho experiência prática em automação de testes com **Selenium, Cypress, Playwright e Capybara**, além de testes de API com **Postman** e **Bruno**.  
+
+Trabalho em estreita colaboração com times de desenvolvimento para detectar problemas precocemente, ampliar a cobertura de testes automatizados e elevar o padrão de qualidade do produto.  
+
+Perfil **analítico e colaborativo**, com atenção aos detalhes e interesse constante em aprender novas tecnologias. 
+
+Meu objetivo é continuar evoluindo em automação, contribuir em projetos open source e, no futuro, atuar em posições de **liderança em QA**, orientando outros profissionais e influenciando diretamente a estratégia de qualidade.
+
+---
+
+## 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielucasantos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriel.seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
